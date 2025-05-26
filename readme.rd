@@ -1,3 +1,6 @@
+#### This is for resource quots and namespace creation. (using LB to expose the applicaiton)
+
+
 1. minikube kubectl -- apply -f namespace-quota.yaml
 
 2. minikube kubectl -- apply -f deployment.yaml
